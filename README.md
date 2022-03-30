@@ -11,7 +11,7 @@
 <div align="center">
 <table>
   <tr>
-    <td align="center"><a href="#" target='_blank'><img src="scrshts/icon.png" width="100px;"/><br /><sub><b>Download</b></sub></a></td>
+    <td align="center"><a href="https://github.com/ZTF666/YuGiBoard/releases/download/v1.0.0/YuGiBoard-V1.0.0.7z" target='_blank'><img src="scrshts/icon.png" width="100px;"/><br /><sub><b>Download</b></sub></a></td>
   </tr>
 </table>
 
