@@ -17,6 +17,16 @@
 
 </div>
 
+# Preview  
+<div align="center">
+<img src="scrshts/board.png" />
+<img src="scrshts/winloss.png" />
+<img src="scrshts/reset.png" />
+<img src="scrshts/settings.png" />
+<img src="scrshts/namechange.png" />
+</div>
+
+
 
 # How To Use :  
 
