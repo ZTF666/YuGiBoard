@@ -13,7 +13,7 @@ A Yu-Gi-Oh life points board to use with OBS to manage and display duellists sta
 <div align="center">
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/ZTF666/YuGiBoard/releases/download/v1.0.0/YuGiBoard-V1.0.0.7z" target='_blank'><img src="scrshts/icon.png" width="100px;"/><br /><sub><b>Download</b></sub></a></td>
+    <td align="center"><a href="https://github.com/ZTF666/YuGiBoard/releases/download/v1.1.0/YuGiBoard-V1.1.0.zip" target='_blank'><img src="scrshts/icon.png" width="100px;"/><br /><sub><b>Download</b></sub></a></td>
   </tr>
 </table>
 
