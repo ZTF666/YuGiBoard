@@ -1,7 +1,7 @@
 # Yu-Gi-Board
 
 <div align="center">
-A Yu-Gi-Oh life points board to use with OBS to manage and display duellists stats on your Twitch overlay during your Yu-Gi-Oh card games ! 
+A Yu-Gi-Oh life points board to use with OBS/StreamLabs to manage and display duellists stats on your Twitch overlay during your Yu-Gi-Oh card games !
 
 <br>
 <br>
@@ -77,8 +77,8 @@ A Yu-Gi-Oh life points board to use with OBS to manage and display duellists sta
 * <mark>Player_2_LP.txt</mark> : Contains the enemy's life points.
 * <mark>Player_1_Name.txt</mark> : Contains the user's display name.
 * <mark>Player_2_Name.txt</mark> : Contains the enemy's display name.
-* <mark>Player_1_Rounds.txt</mark> : Contains the user's rounds.
-* <mark>Player_2_Rounds.txt</mark> : Contains the enemy's rounds.
+* <mark>Player_1_Rounds.txt</mark> : Contains "1" or "0" : The number of rounds won by the duellist 1.
+* <mark>Player_2_Rounds.txt</mark> : Contains "1" or "0" : The number of rounds won by the duellist 2.
 * <mark>Player_1_Deck.txt</mark> : Contains the user's deck name.
 * <mark>Player_2_Deck.txt</mark> : Contains the enemy's deck name.
 
@@ -107,7 +107,7 @@ A Yu-Gi-Oh life points board to use with OBS to manage and display duellists sta
 
 <div align="center">
 
-**Yu-Gi-Board**
+**YuGiBoard**
 released under the [MIT](LICENSE) License.
 <br><br>
 
