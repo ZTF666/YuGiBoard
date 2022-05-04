@@ -31,12 +31,12 @@ A Yu-Gi-Oh life points board to use with OBS to manage and display duellists sta
 
 # Preview  
 <div align="center">
-<img src="scrshts/board.png" />
-<img src="scrshts/winloss.png" />
-<img src="scrshts/reset.png" />
-<img src="scrshts/settings.png" />
-<img src="scrshts/namechange.png" />
-<img src="scrshts/decknamechange.png" />
+<img src="scrshts/board1.png" />
+<img src="scrshts/winloss1.png" />
+<img src="scrshts/reset1.png" />
+<img src="scrshts/settings1.png" />
+<img src="scrshts/namechange1.png" />
+<img src="scrshts/decknamechange1.png" />
 </div>
 
 
