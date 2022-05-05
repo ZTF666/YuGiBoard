@@ -111,6 +111,6 @@ A Yu-Gi-Oh life points board to use with OBS/StreamLabs to manage and display du
 released under the [MIT](LICENSE) License.
 <br><br>
 
-<strong><p>Made with ❤️ by ZTF , Designed with <a href="https://twitch.tv/skkn_tv" target="_blank" style="color:blue"> SKKN </a> | 2022 </p> </strong>
+<strong><p>Made with ❤️ by ZTF , Designed with <a href="https://twitch.tv/skkn_tv" target="_blank" style="color:blue"> SkkN </a> | 2022 </p> </strong>
 
 </div>
